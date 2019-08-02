@@ -1,5 +1,5 @@
 # facebook-spotify-youtube-descargar
-#este  script descarca de facebook spotify y youtube#
+#este  script descarga de facebook spotify y youtube#
 
 #copie y pegue para instalar#
 
