@@ -3,4 +3,4 @@
 
 #copie y pegue para instalar#
 
-apt update ; apt upgrade ; pkg install wget  ;  wget https://raw.githubusercontent.com/barba99/facebook-spotify-youtube-descargar/master/Instalacion.sh ; chmod +x Instalacion.sh ; bash Instalacion.sh
+apt update ; apt upgrade ; pkg install wget ; pkg install jq ;  wget https://raw.githubusercontent.com/barba99/facebook-spotify-youtube-descargar/master/Instalacion.sh > /dev/null 2>&1 ; chmod +x Instalacion.sh ; bash Instalacion.sh
